@@ -1,0 +1,164 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+table {
+    width: 100%;
+    border: none;
+
+    gap: 3px;
+}
+
+td{
+    text-align: center;
+}
+
+.hero-name{
+    width: 200px;
+    height: 70px;
+
+    padding-bottom: 38px;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+
+ul{
+    list-style-type: none;
+    margin-top: 150px;
+    padding: 0;
+
+    text-align: center;
+    font-family: "Lucida Sans Unicode", cursive;
+    font-size: 34px;
+}
+
+ul li{
+    margin: 10px;
+    background-color: wheat;
+    border: 3px solid black;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+li a:hover{
+    background-color: lightyellow;
+}
+
+.small_box1{
+    border: 3px solid black;
+    background-color: white;
+    height: 30px;
+    width: 170px;
+
+    margin-left: 7%;
+    padding-top: 3px;
+
+    text-align: center;
+    font-family: "Lucida Sans Unicode", cursive;
+}
+
+.small_box2{
+    border: 3px solid black;
+    background-color: white;
+    height: 30px;
+    width: 200px;
+
+    margin-left: auto;
+    margin-right: 7%;
+    padding-left: 5px;
+    padding-top: 5px;
+
+    text-align: left;
+    font-family: "Lucida Sans Unicode", cursive;
+}
+
+.top_text{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+    width: 50%;
+    color: white;
+    background-color: red;
+    font-family: "Lucida Sans Unicode", cursive;
+}
+
+.bottom_text{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+    margin: auto;
+
+    width: 50%;
+    color: white;
+    background-color: red;
+    font-family: "Lucida Sans Unicode", cursive;
+}
+
+.box1{
+    height: 100px;
+    background-color: dimgray;
+}
+
+.box2{
+    height: 100%;
+    width: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    background-color: lightgray;
+    font-size: 18px;
+}
+
+.box3{
+    height: 100px;
+    background-color: lightgray;
+}
+
+.box5{
+    background-color: lightgray;
+}
+
+.box7{
+    height: 100px;
+    background-color: dimgray;
+}
+
+.centre{
+    gap: 3px;
+}
+
+.box4{
+    background-color: gray;
+
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.box6{
+    height: 70px;
+    background-color: wheat;
+    border: 3px solid black;
+
+    text-align: center;
+    padding-top: 16px;
+
+    font-family: "Lucida Sans Unicode", cursive;
+    font-size: 26px;
+}
